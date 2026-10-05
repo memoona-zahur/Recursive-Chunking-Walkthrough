@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+sentence-transformers
+qdrant-client
+langchain-text-splitters
+groq
+jupyter
